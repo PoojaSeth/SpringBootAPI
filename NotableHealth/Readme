@@ -1,0 +1,15 @@
+Steps to Run the project
+#################################
+
+Requirements:
+
+1. Java in your system should be installed
+2. Download IntelliJ since this project iis built using IntelliJ.
+3. Download Postman to test the API responses.
+
+###################################
+
+1. Clone the project from the github repository link provided.
+2. Import the project in IntelliJ
+3. Run the project
+4. Use postman to check the different reponses. You can find the endpoints for each request in the controller file.
